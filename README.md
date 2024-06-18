@@ -5,5 +5,5 @@ This repository contains the code, data, and resources related to the thesis tit
 ## Contents
 
 - **Code**: Contains the necessary Unity3D scripts for the automated testing framework used in the thesis.
-- **Data**: Includes raw and processed data from the performance tests, along with the Jupyter Notebooks used to analyze the data
+- **NotebooksAndData**: Includes raw and processed data from the performance tests, along with the Jupyter Notebooks used to analyze the data
 - **Thesis**: Provides the original thesis as a PDF file.
