@@ -15,3 +15,6 @@ The RefreshRateSetter script is designed to optimize the display performance of 
 
 **MovementRecorder**
 The MovementRecorder script records the movement of the VR headset relative to a specified anchor object within the scene, ensuring consistent playback regardless of changes in the user's real-world position. Additionally, it supports optional tracking of VR controllers by uncommenting the relevant lines in the code. Recorded data is saved as a CSV file, providing a timestamped record of positional and rotational data for each frame.
+
+**AutomatedTest**
+The AutomatedTest script automates the testing of two different particle effects (VFX and Built-In) as well as no particle effects, using movement data recorded with the MovementRecorder script. The tests are conducted three times for each configuration, including options for passthrough and non-passthrough modes. Performance metrics such as FPS, triangle count, draw calls, vertex count, memory usage, and GPU usage are recorded and saved to a CSV file. This script is useful for assessing the impact of different particle effects on VR performance and ensuring consistent playback of recorded movements.
