@@ -1,6 +1,6 @@
 # AutomatedPerformanceMeasurementFramework
 
-This repository contains the code, data, and resources related to the thesis titled "Optimization of Particle Effects in XR Environments Using Unity3D." The thesis investigates the performance implications and optimization strategies for particle systems in VR and AR applications, using Unity3D's built-in particle system and the Visual Effect Graph.
+This repository contains the code, data, and resources related to the thesis titled "Automated performance measurement framework for single platform XR particle effects in Unity 3D". The thesis investigates the performance implications and optimization strategies for particle systems in VR and AR applications, using Unity3D's built-in particle system and the Visual Effect Graph.
 
 ## Contents
 
